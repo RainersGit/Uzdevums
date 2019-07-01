@@ -1,3 +1,17 @@
+<p align="center"></p>
+
+<strong><p align="center">Uzdevuma izpildi veicu Laravel projektā.</p></strong>
+<p>Lokālajā vidē mapē "Printful" izsaucu ' php -S localhost:8000 -t public/ ' komandu "Command Prompt", pēc kuras rezultāts apskatāms - http://localhost:8000/</p>
+<p><p>API tiek izsaukts no DataController.php</p></p>
+<p>Kešatmiņas faili tiek izveidoti - Printful\storage\framework\cache\data</p>
+<br>
+<strong><p align="center">Hi, I completed given task by creating Laravel project.</p></strong>
+<p>In local environment "Printful" folder I launched ' php -S localhost:8000 -t public/ ' command in "Command Prompt", after which the result is shown in - http://localhost:8000/</p>
+<p>API call is made from DataController.php</p>
+<p>Cache files are created in - Printful\storage\framework\cache\data</p>
+
+<p>Project archive - https://failiem.lv/u/fwk6zqkg</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
