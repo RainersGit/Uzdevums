@@ -34,6 +34,13 @@ class FileCaching implements CacheInterface
         return Cache::get($key);
     }
 
+    /**
+     * Checks if item exists in cache
+     * Returns true or false
+     *
+     * @param string $key
+     * @return true or false
+     */
     public function find(string $key){
         return Cache::has($key);
     }
